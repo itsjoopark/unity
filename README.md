@@ -1,5 +1,5 @@
-# unity
-a repo to learn &amp; practice unity daily! 
+# Unity
+a repo to learn &amp; practice unity daily as a beginner!  
 [Start Date: 05-11-22] 
 
 # Specific Exercises 
